@@ -1,0 +1,8 @@
+
+target/
+dbt_packages/
+logs/
+taxi_rides_ny.duckdb
+
+# Data directory
+data/
