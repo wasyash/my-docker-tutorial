@@ -19,3 +19,7 @@ for TAXI_TYPE in "yellow" "green"; do
         done
     done
 done
+
+find data/ -size 0 -delete
+
+find data/ -type d -empty -delete
