@@ -216,3 +216,5 @@ notebooks/zones/
 *.crc
 *.parquet
 *SUCCESS*
+
+notebooks/data/
