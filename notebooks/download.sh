@@ -23,3 +23,4 @@ done
 find data/ -size 0 -delete
 
 find data/ -type d -empty -delete
+echo "Cleaned up"

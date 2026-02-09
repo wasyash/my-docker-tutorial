@@ -212,6 +212,8 @@ __marimo__/
 spark/
 hadoop/
 notebooks/zones/
+notebooks/tmp/
+notebooks/fhvhv/
 
 *.crc
 *.parquet
